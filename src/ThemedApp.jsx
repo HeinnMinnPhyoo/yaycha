@@ -1,7 +1,6 @@
 import { useState, createContext, useContext } from "react";
 
 import {
-    CssBaseLine,
     ThemeProvider,
     createTheme,
 } from "@mui/material";
